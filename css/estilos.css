@@ -1,3 +1,20 @@
-.skill__tecnology__item{
-    
+.skills__tecnology{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 3em;
+}
+
+.skill__tecnology__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.skill__tecnology__item img{
+    background: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid #57B4F0;
 }
