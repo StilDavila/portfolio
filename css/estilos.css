@@ -18,3 +18,9 @@
     border-radius: 50%;
     border: 2px solid #57B4F0;
 }
+
+.contactame{
+    display: flex;
+justify-content: center;
+    margin: 0 auto;
+}
