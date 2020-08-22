@@ -24,3 +24,15 @@
     justify-content: center;
     margin: 0 auto;
 }
+
+.img-portfolio{
+    /* max-height: 450px;  */
+    /* border: 1px solid black; */
+}
+
+@media screen and (max-width: 600px){
+    /* .img-portfolio{
+        max-height: 250px; 
+        border: 1px solid black;
+    } */
+}
